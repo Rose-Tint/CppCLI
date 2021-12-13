@@ -1,0 +1,2 @@
+*.cpp   text diff=cpp
+*.hpp   text diff=cpp
